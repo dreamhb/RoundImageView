@@ -1,7 +1,7 @@
 ### RoundImageView
 一个可以设置边框以及边框间距的ImageView, 基于Alan的代码修改。
 
-![](demo.png)
+![](demo.jpg)
 
 #### 参数设置：
 

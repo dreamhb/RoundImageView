@@ -4,7 +4,7 @@
 ![](demo.jpg)
 
 #### 使用示例
-```
+```xml
 <hu.damon.view.RoundImageView
     xmlns:riv="http://schemas.android.com/apk/res-auto"
     android:layout_centerInParent="true"

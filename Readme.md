@@ -7,13 +7,21 @@
 `
 <hu.damon.view.RoundImageView
 xmlns:riv="http://schemas.android.com/apk/res-auto"
+
 android:layout_centerInParent="true"
+
 android:layout_width="100dp"
+
 android:layout_height="100dp"
+
 android:src="@mipmap/images"
+
 riv:border_outside_color="@android:color/black"
+
 riv:border_outside_padding="5dp"
-riv:border_thickness="1dp"/>
+
+riv:border_thickness="1dp"
+/>
 `
 #### 参数设置：
 

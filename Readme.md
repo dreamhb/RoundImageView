@@ -5,6 +5,7 @@
 
 #### 使用示例
 `
+
 <hu.damon.view.RoundImageView
 xmlns:riv="http://schemas.android.com/apk/res-auto"
 
@@ -22,6 +23,7 @@ riv:border_outside_padding="5dp"
 
 riv:border_thickness="1dp"
 />
+
 `
 #### 参数设置：
 

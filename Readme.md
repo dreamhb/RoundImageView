@@ -7,8 +7,11 @@
 边框的宽度，如果为０，则不显示
 
 **border_inside_color**
+
 内边框的颜色
 **border_outside_color**
+
 外边框的颜色
 **border_outside_padding**
+
 外边框与里面图的间距
